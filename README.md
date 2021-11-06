@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+# React JS Curso Rápido 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Curso pratico da Cod3r
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+⚛️ Masterclass #1 2020 - 100% Prático
+
+link do curso: https://www.youtube.com/watch?v=XQxitgyZ_S4
+
