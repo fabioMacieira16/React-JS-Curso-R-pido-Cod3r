@@ -4,7 +4,7 @@ export default props => {
     return (
         <div>
           <h2>O Número é {props.numero}</h2> 
-          { props.numero %2 == 0 
+          { props.numero %2 === 0 
             ? <span>Par</span> 
             : <span>Ímpar</span>
           }
